@@ -1,6 +1,6 @@
 # CSSE-490-lab-0
 
-Lab 0: Deploying Our First Flask App
+Lab 0: Deploying Our First Sinatra App
 
 ## Project Setup
 
